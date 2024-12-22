@@ -1,0 +1,10 @@
+astroNN
+numpy
+astropy
+h5py
+matplotlib
+astroquery
+pandas
+scikit-learn
+# tqdm
+tensorflow
